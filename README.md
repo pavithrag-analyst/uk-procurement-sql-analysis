@@ -9,9 +9,9 @@
 
 ## 📌 Project Overview
 
-This project applies SQL-based business intelligence analysis to real UK Government procurement data, sourced from the official Contracts Finder database. It demonstrates end-to-end data analysis skills — from raw data ingestion and SQL querying through to Python-based EDA and visual reporting.
+This project applies SQL-based business intelligence analysis to real UK Government procurement data, sourced from the official Contracts Finder database. It demonstrates end-to-end data analysis skills, from raw data ingestion and SQL querying through to Python-based EDA and visual reporting.
 
-The analysis focuses on identifying procurement patterns, supplier concentration, spend distribution, and contract award trends across government departments — directly mirroring the kind of enterprise data work performed in ERP and procurement consulting environments.
+The analysis focuses on identifying procurement patterns, supplier concentration, spend distribution, and contract award trends across government departments, directly mirroring the kind of enterprise data work performed in ERP and procurement consulting environments.
 
 ---
 
