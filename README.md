@@ -15,9 +15,9 @@
 
 ## 📌 Project Overview
 
-This project applies SQL-based business intelligence analysis to real UK Government procurement data from the official Contracts Finder database. It demonstrates end-to-end analytical thinking — from raw data exploration and cleaning through to spend analysis, supplier concentration, and time-series trends.
+This project applies SQL-based business intelligence analysis to real UK Government procurement data from the official Contracts Finder database. It demonstrates end-to-end analytical thinking, from raw data exploration and cleaning through to spend analysis, supplier concentration, and time-series trends.
 
-The analysis mirrors the kind of enterprise data work performed in ERP and procurement consulting environments — translating large volumes of transactional data into clear, actionable business insights.
+The analysis mirrors the kind of enterprise data work performed in ERP and procurement consulting environments, translating large volumes of transactional data into clear, actionable business insights.
 
 > 💡 This project is part of an active data analytics portfolio built alongside an MRes in Digital Management (University of Hertfordshire), reflecting real-world analytical experience in regulated financial services, ERP, and procurement consulting.
 
