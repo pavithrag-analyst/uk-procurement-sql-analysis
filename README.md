@@ -1,4 +1,4 @@
-# 🏛️ UK Government Procurement — SQL Business Intelligence Analysis
+# 🏛️ UK Government Procurement - SQL Business Intelligence Analysis
 
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%2F%20SQLite-blue?style=flat-square&logo=postgresql)
 ![Python](https://img.shields.io/badge/Python-pandas%20%7C%20matplotlib-blue?style=flat-square&logo=python)
@@ -9,7 +9,7 @@
 **Author:** Pavithra Gunasekaran
 **Domain:** Public Sector Procurement | Enterprise Data & Insights
 **Tools:** SQL · Python (pandas, matplotlib) · Power BI
-**Data Source:** [UK Government Contracts Finder — data.gov.uk](https://www.contractsfinder.service.gov.uk/Search)
+**Data Source:** [UK Government Contracts Finder - data.gov.uk](https://www.contractsfinder.service.gov.uk/Search)
 
 ---
 
@@ -43,10 +43,10 @@ The analysis identifies procurement spend patterns, supplier concentration risk,
 - Total spend across 302 organisations: **£3.74 billion**
 - **Wandle Housing Association** is the top spending organisation at £2.09B (55.8% of total), most likely reflecting a large maintenance framework contract rather than typical departmental procurement
 - **Transport for London** ranked second at £454M (12.1%), **Crown Commercial Service** third at £245M (6.6%)
-- The top 5 organisations account for approximately **79% of total spend** — significant concentration at the portfolio level
+- The top 5 organisations account for approximately **79% of total spend** - significant concentration at the portfolio level
 
 ### Supplier Concentration
-- **Top 10 suppliers account for 81.5% of total contract value** — a high concentration ratio indicating structural dependency risk
+- **Top 10 suppliers account for 81.5% of total contract value** - a high concentration ratio indicating structural dependency risk
 - Largest single supplier: Architectural Decorators Limited (£2.08B), tied to the Wandle framework
 - **KPMG LLP** ranks third at £216M, reflecting material consultancy spend across departments
 - **Serco's** presence in the top 15 (despite being a major public sector contractor) suggests the 1,000-record export is a sample, not the full Contracts Finder database
@@ -55,8 +55,8 @@ The analysis identifies procurement spend patterns, supplier concentration risk,
 - The most common contract band by volume is **£10k–£100k** (433 contracts, 45% of total)
 - **£100k–£1M** accounts for 337 contracts (35%)
 - Only **27 contracts exceed £10M**, but these disproportionately drive total spend
-- **80 contracts are under £10k** (8% by volume — SME-scale awards)
-- Median contract value: **£93,318** — a better indicator of typical contract size than the mean
+- **80 contracts are under £10k** (8% by volume - SME-scale awards)
+- Median contract value: **£93,318** - a better indicator of typical contract size than the mean
 - Mean contract value: £3.89M (skewed significantly by large outliers)
 
 ### Procurement Trends
@@ -184,7 +184,7 @@ python python/02_eda_visualisation.py
 | Tool | Usage |
 |------|-------|
 | SQL (SQLite / PostgreSQL / MySQL) | Core querying, aggregation, window functions |
-| Python — pandas, matplotlib, seaborn | Data cleaning, EDA, visualisation |
+| Python - pandas, matplotlib, seaborn | Data cleaning, EDA, visualisation |
 | Power BI | Interactive dashboard with department and supplier filters |
 | GitHub | Version control and portfolio visibility |
 
